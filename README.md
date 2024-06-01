@@ -2,7 +2,7 @@
 My name is Muhammad Farhan Mubarok, and i love coding too much 💖 <br>
 #### 💫 About Me:
 - I'm just a kid who like Programming 🙄<br>
-- I'm now single forever! 👨‍🎤<br>
+- I'm now single and forever! 👨‍🎤<br>
 - I need something exciting 💤<br>
 - I don't have any experience in professional carrier 🎯
 
