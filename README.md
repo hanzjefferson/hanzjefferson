@@ -1,5 +1,5 @@
 ### Yo, Welcome to My GitHub Profile! 
-My name is Muhammad Farhan Mubarok, and i'm Fullstack Mobile Developer 💖 <br>
+Hello there! My name is Muhammad Farhan Mubarok, a passionate Fullstack Mobile Developer who loves exploring cutting-edge technologies and crafting seamless digital experiences. I enjoy turning ideas into code and solving real-world problems through mobile applications. 💖 <br>
 
 #### 👩‍💻 My Used Language:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
